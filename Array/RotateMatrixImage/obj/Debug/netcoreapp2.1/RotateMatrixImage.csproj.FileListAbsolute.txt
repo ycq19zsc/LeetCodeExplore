@@ -1,0 +1,11 @@
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\bin\Debug\netcoreapp2.1\RotateMatrixImage.deps.json
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\bin\Debug\netcoreapp2.1\RotateMatrixImage.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\bin\Debug\netcoreapp2.1\RotateMatrixImage.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\bin\Debug\netcoreapp2.1\RotateMatrixImage.dll
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\bin\Debug\netcoreapp2.1\RotateMatrixImage.pdb
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.dll
+D:\Develop\dotNetCore\Leetcode\Array\RotateMatrixImage\obj\Debug\netcoreapp2.1\RotateMatrixImage.pdb

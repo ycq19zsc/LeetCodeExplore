@@ -1,0 +1,11 @@
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\bin\Debug\netcoreapp2.1\SortArrayByParity.deps.json
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\bin\Debug\netcoreapp2.1\SortArrayByParity.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\bin\Debug\netcoreapp2.1\SortArrayByParity.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\bin\Debug\netcoreapp2.1\SortArrayByParity.dll
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\bin\Debug\netcoreapp2.1\SortArrayByParity.pdb
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.dll
+D:\Develop\dotNetCore\Leetcode\Array\SortArrayByParity\obj\Debug\netcoreapp2.1\SortArrayByParity.pdb

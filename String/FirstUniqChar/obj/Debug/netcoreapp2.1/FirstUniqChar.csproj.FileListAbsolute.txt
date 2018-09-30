@@ -1,0 +1,11 @@
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\bin\Debug\netcoreapp2.1\FirstUniqChar.deps.json
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\bin\Debug\netcoreapp2.1\FirstUniqChar.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\bin\Debug\netcoreapp2.1\FirstUniqChar.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\bin\Debug\netcoreapp2.1\FirstUniqChar.dll
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\bin\Debug\netcoreapp2.1\FirstUniqChar.pdb
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.dll
+D:\Develop\dotNetCore\Leetcode\Array\string\FirstUniqChar\obj\Debug\netcoreapp2.1\FirstUniqChar.pdb

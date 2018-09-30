@@ -1,0 +1,11 @@
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\bin\Debug\netcoreapp2.1\CountAndSay.deps.json
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\bin\Debug\netcoreapp2.1\CountAndSay.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\bin\Debug\netcoreapp2.1\CountAndSay.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\bin\Debug\netcoreapp2.1\CountAndSay.dll
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\bin\Debug\netcoreapp2.1\CountAndSay.pdb
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.dll
+D:\Develop\dotNetCore\Leetcode\String\CountAndSay\obj\Debug\netcoreapp2.1\CountAndSay.pdb

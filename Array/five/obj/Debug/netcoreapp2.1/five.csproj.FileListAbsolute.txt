@@ -1,0 +1,11 @@
+D:\Develop\dotNetCore\Leetcode\Array\five\bin\Debug\netcoreapp2.1\five.deps.json
+D:\Develop\dotNetCore\Leetcode\Array\five\bin\Debug\netcoreapp2.1\five.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\Array\five\bin\Debug\netcoreapp2.1\five.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\Array\five\bin\Debug\netcoreapp2.1\five.dll
+D:\Develop\dotNetCore\Leetcode\Array\five\bin\Debug\netcoreapp2.1\five.pdb
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.dll
+D:\Develop\dotNetCore\Leetcode\Array\five\obj\Debug\netcoreapp2.1\five.pdb
