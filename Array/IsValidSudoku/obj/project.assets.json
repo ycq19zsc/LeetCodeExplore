@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\IsValidSudoku\\IsValidSudoku.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\IsValidSudoku\\IsValidSudoku.csproj",
       "projectName": "IsValidSudoku",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\IsValidSudoku\\IsValidSudoku.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\IsValidSudoku\\IsValidSudoku.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\IsValidSudoku\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\IsValidSudoku\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

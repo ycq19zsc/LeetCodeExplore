@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\String\\CountAndSay\\CountAndSay.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\CountAndSay\\CountAndSay.csproj",
       "projectName": "CountAndSay",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\String\\CountAndSay\\CountAndSay.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\CountAndSay\\CountAndSay.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\String\\CountAndSay\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\CountAndSay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

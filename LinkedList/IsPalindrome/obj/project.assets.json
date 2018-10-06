@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\IsPalindrome.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\IsPalindrome.csproj",
       "projectName": "IsPalindrome",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\IsPalindrome.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\IsPalindrome.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\IsPalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -727,8 +727,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\BaseNode\\BaseNode.csproj": {
-              "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\BaseNode\\BaseNode.csproj"
+            "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\BaseNode\\BaseNode.csproj": {
+              "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\LinkedList\\BaseNode\\BaseNode.csproj"
             }
           }
         }

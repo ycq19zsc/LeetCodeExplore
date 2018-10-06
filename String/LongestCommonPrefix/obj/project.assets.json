@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\String\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
       "projectName": "LongestCommonPrefix",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\String\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\String\\LongestCommonPrefix\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\String\\LongestCommonPrefix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

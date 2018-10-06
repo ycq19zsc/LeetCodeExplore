@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\five\\five.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\five\\five.csproj",
       "projectName": "five",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\five\\five.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\five\\five.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\five\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\five\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

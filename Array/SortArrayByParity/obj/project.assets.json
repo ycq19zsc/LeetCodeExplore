@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\Array\\SortArrayByParity\\SortArrayByParity.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\SortArrayByParity\\SortArrayByParity.csproj",
       "projectName": "SortArrayByParity",
-      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\Array\\SortArrayByParity\\SortArrayByParity.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\SortArrayByParity\\SortArrayByParity.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\Array\\SortArrayByParity\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\SortArrayByParity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

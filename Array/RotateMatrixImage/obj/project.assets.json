@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\RotateMatrixImage\\RotateMatrixImage.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\RotateMatrixImage\\RotateMatrixImage.csproj",
       "projectName": "RotateMatrixImage",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\RotateMatrixImage\\RotateMatrixImage.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\RotateMatrixImage\\RotateMatrixImage.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\Array\\RotateMatrixImage\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Array\\RotateMatrixImage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

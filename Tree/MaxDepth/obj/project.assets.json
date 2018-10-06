@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BaseTreeNode/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BaseTreeNode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseTreeNode.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BaseTreeNode/1.0.0": {
+      "type": "project",
+      "path": "../BaseTreeNode/BaseTreeNode.csproj",
+      "msbuildProject": "../BaseTreeNode/BaseTreeNode.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "BaseTreeNode >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -687,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\MaxDepth.csproj",
+      "projectUniqueName": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\MaxDepth.csproj",
       "projectName": "MaxDepth",
-      "projectPath": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\MaxDepth.csproj",
+      "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\MaxDepth.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\obj\\",
+      "outputPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\MaxDepth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -710,7 +726,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\BaseTreeNode\\BaseTreeNode.csproj": {
+              "projectPath": "d:\\Develop\\dotNetCore\\Leetcode\\LeetCodeExplore\\Tree\\BaseTreeNode\\BaseTreeNode.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
