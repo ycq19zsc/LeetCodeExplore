@@ -14,6 +14,7 @@ namespace BaseNode
 
     public class ListNode:ListNode<int>
     {
+        public new ListNode next;
         public ListNode(int val):base(val)
         {
             base.val = val;
