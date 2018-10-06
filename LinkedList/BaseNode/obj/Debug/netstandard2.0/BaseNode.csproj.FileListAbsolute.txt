@@ -1,9 +1,0 @@
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.csprojAssemblyReference.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.csproj.CoreCompileInputs.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.AssemblyInfoInputs.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.AssemblyInfo.cs
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\bin\Debug\netstandard2.0\BaseNode.deps.json
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\bin\Debug\netstandard2.0\BaseNode.dll
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\bin\Debug\netstandard2.0\BaseNode.pdb
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.dll
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\LinkedList\BaseNode\obj\Debug\netstandard2.0\BaseNode.pdb

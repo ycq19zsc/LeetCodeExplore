@@ -1,9 +1,0 @@
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\bin\Debug\netstandard2.0\BaseTreeNode.deps.json
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\bin\Debug\netstandard2.0\BaseTreeNode.dll
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\bin\Debug\netstandard2.0\BaseTreeNode.pdb
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.csprojAssemblyReference.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.csproj.CoreCompileInputs.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.AssemblyInfoInputs.cache
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.AssemblyInfo.cs
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.dll
-D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\BaseTreeNode\obj\Debug\netstandard2.0\BaseTreeNode.pdb
