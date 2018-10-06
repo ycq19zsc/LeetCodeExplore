@@ -1,0 +1,14 @@
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\IsValidBST.deps.json
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\IsValidBST.runtimeconfig.json
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\IsValidBST.runtimeconfig.dev.json
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\IsValidBST.dll
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\IsValidBST.pdb
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\BaseTreeNode.dll
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\bin\Debug\netcoreapp2.1\BaseTreeNode.pdb
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.csprojAssemblyReference.cache
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.csproj.CoreCompileInputs.cache
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.AssemblyInfoInputs.cache
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.AssemblyInfo.cs
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.csproj.CopyComplete
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.dll
+D:\Develop\dotNetCore\Leetcode\LeetCodeExplore\Tree\IsValidBST\obj\Debug\netcoreapp2.1\IsValidBST.pdb
