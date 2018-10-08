@@ -42,38 +42,59 @@ namespace MaxProfit
             // return arr.Select(z => z.Item2).Max();
             #endregion
 
-            var list = new List<(int, int)>() { (prices[0], 0) };
+            #region solution1，ok
+            // var list = new List<(int, int)>() { (prices[0], 0) };
+
+            // var minPriceNow = prices[0];
+
+            // for (int i = 1; i < prices.Length; i++)
+            // {
+            //     if (prices[i] < minPriceNow)
+            //     {
+            //         minPriceNow = prices[i];
+            //         list.Add((prices[i], 0));
+            //         continue;
+            //     }
+
+            //     for (int j = 0; j < list.Count; j++)
+            //     {
+            //         var (f, s) = list[j];
+            //         if (f >= prices[i])
+            //         {
+            //             continue;
+            //         }
+
+            //         var n = prices[i] - f;
+
+            //         if (n > s)
+            //         {
+            //             list[j] = (f, n);
+            //         }
+            //     }
+            // }
+
+
+            // return list.Select(z => z.Item2).Max();
+
+            #endregion
+
 
             var minPriceNow = prices[0];
+            var maxProfit = 0;
 
             for (int i = 1; i < prices.Length; i++)
             {
-                if (prices[i] <= minPriceNow)
+                if (prices[i] < minPriceNow)
                 {
                     minPriceNow = prices[i];
-                    list.Add((prices[i], 0));
                     continue;
                 }
 
-                for (int j = 0; j < list.Count; j++)
-                {
-                    var (f, s) = list[j];
-                    if (f >= prices[i])
-                    {
-                        continue;
-                    }
-
-                    var n = prices[i] - f;
-
-                    if (n > s)
-                    {
-                        list[j] = (f, n);
-                    }
-                }
+                maxProfit = Math.Max(maxProfit,prices[i] - minPriceNow);
             }
 
 
-            return list.Select(z => z.Item2).Max();
+            return maxProfit;
         }
     }
 }
