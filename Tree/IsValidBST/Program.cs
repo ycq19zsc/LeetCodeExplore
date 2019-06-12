@@ -32,7 +32,6 @@ namespace IsValidBST
             root.right.right = new TreeNode(6);
 
             System.Console.WriteLine(IsValidBST(root));
-
             #endregion
         }
 
